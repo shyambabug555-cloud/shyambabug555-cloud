@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working in sarva suvidhan pvt. ltd
+I am working in Softogrid Solutions Private Limited
 Machine Learning Engineer
 
 
